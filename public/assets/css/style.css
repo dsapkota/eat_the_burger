@@ -1,0 +1,43 @@
+body {
+	background-image: url('http://www.seriouseats.com/recipes/assets_c/2015/07/20150728-homemade-whopper-food-lab-35-thumb-1500xauto-425129.jpg');
+	}
+
+w3-myfont {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#burgerHeader{
+
+	background-image: url(./assets/images/sloppyBurger.jpg);
+}
+.container{
+	width:80%;
+	margin: 0 auto;
+	background-color: lightblue;
+}
+.notDevoured{
+	float: left;
+	width:50%;
+}
+.devoured{
+	float: right;
+	width:50%;
+}
+
+li {
+  background: #FAEBD7;
+  margin: 5px;
+  padding: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  background: #FFFFFF;
+  padding: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
